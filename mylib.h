@@ -882,6 +882,6 @@ void vekhungNhapTG()
 void InTen()
 {
 	gotoxy(120,45);
-	cout << "N17DCCN149 - TRAN VU HOANG TAM";
+	cout << "N17DCCN150 - NGUYEN DUY TAN";
 }
 #endif
